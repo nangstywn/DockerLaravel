@@ -44,6 +44,23 @@ Kita dapat menggunakan perintah <b>docker-compose exec</b> untuk mengeksekusi pe
 ## Membuat Key
 
 <b>docker-compose exec app php artisan key:generated</b>
+
 Pada Laravel, Key di generated untuk enkripsi session pengguna dan data sensitif
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/6.png?raw=true)
+
+## Jalankan Aplikasi
+
+Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver.
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/7.png?raw=true)
+
+Login Aplikasi
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/8.png?raw=true)
+
+## Akses Database dari Aplikasi
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/9.png?raw=true)
 
 
