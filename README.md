@@ -71,4 +71,17 @@ Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver yait
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/10.png?raw=true)
 
+## Push ke Docker hub
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/12.png?raw=true)
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/13.png?raw=true)
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/14.png?raw=true)
+
+## Tmapilan di Docker hub
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/15.png?raw=true)
+
+## Tampilan di Katacoda setelah di pull
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/16.png?raw=true)
 
