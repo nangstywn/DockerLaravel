@@ -28,13 +28,15 @@ Kita gunakan perintah <b>docker-compose ps</b>
 ## Eksekusi perintah dalam Container
 
 <b>docker-compose exec app ls -l</b>
-Kita dapa menggunakan perintah <b>docker-compose exec</b> untuk mengeksekusi perintah didalam container.  kemudian dapat kita tambahkan <b>ls -l</b> untuk menampilkan informasi detail tentang file di direktori aplikasi
+
+Kita dapat menggunakan perintah <b>docker-compose exec</b> untuk mengeksekusi perintah didalam container.  kemudian dapat kita tambahkan <b>ls -l</b> untuk menampilkan informasi detail tentang file di direktori aplikasi
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/4.png?raw=true)
 
 ## Composer Install
 
 <b>docker-compose exec app composer install</b>
+
 <b>Composer install</b> digunakan untuk menginstal dependensi aplikasi. Digunakan oleh developer saat membuat web dengan Laravel
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/5.png?raw=true)
