@@ -1,6 +1,7 @@
 # DockerLaravel
 
-#Build aplikasi image
+##Build image
+
 Kita mempunyai 3 images didalam file docker compose.yml yaitu :
 - app (Aplikasi)
 - mysql:5.7 (Database)
