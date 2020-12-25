@@ -25,6 +25,10 @@ Kita gunakan perintah <b>docker-compose ps</b> untuk melihat service yang sedang
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/3.png?raw=true)
 
+Untuk melihat service yang berjalan, kita juga bisa melihat langsung pada aplkasi docker desktop
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/11.png?raw=true)
+
 ## Eksekusi perintah dalam Container
 
 <b>docker-compose exec app ls -l</b>
