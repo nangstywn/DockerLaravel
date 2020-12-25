@@ -21,7 +21,7 @@ Agar Container berjalan dibelakang layar kita gunakan perintah <b>docker-compose
 
 ## Melihat Service yang sedang berjalan
 
-Kita gunakan perintah <b>docker-compose ps</b>
+Kita gunakan perintah <b>docker-compose ps</b> untuk melihat service yang sedang berjalan.
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/3.png?raw=true)
 
@@ -29,7 +29,7 @@ Kita gunakan perintah <b>docker-compose ps</b>
 
 <b>docker-compose exec app ls -l</b>
 
-Kita dapat menggunakan perintah <b>docker-compose exec</b> untuk mengeksekusi perintah didalam container.  kemudian dapat kita tambahkan <b>ls -l</b> untuk menampilkan informasi detail tentang file di direktori aplikasi
+Kita dapat menggunakan perintah <b>docker-compose exec</b> untuk mengeksekusi perintah didalam container.  kemudian dapat kita tambahkan <b>ls -l</b> untuk menampilkan informasi detail tentang file di direktori aplikasi.
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/4.png?raw=true)
 
@@ -51,7 +51,7 @@ Pada Laravel, Key di generated untuk enkripsi session pengguna dan data sensitif
 
 ## Jalankan Aplikasi
 
-Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver.
+Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver yaitu localhost:5000
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/7.png?raw=true)
 
