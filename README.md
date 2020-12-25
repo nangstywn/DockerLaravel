@@ -55,12 +55,16 @@ Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver.
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/7.png?raw=true)
 
-Login Aplikasi
+## Login Aplikasi
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/8.png?raw=true)
 
 ## Akses Database dari Aplikasi
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/9.png?raw=true)
+
+## Melakukan Action (Tambah Data)
+
+![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/10.png?raw=true)
 
 
