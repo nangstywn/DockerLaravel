@@ -1,6 +1,6 @@
 # DockerLaravel
 
-##Build image
+## Build image
 
 Kita mempunyai 3 images didalam file docker compose.yml yaitu :
 - app (Aplikasi)
