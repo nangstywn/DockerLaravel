@@ -85,3 +85,8 @@ Disini kita menjalankan aplikasi sesuai dengan port yang ada pada webserver yait
 
 ![alt text](https://github.com/nangStywn/DockerLaravel/blob/master/Screenshot/16.png?raw=true)
 
+## Link Repository
+App : https://hub.docker.com/repository/docker/nanang11/app
+nginx : https://hub.docker.com/repository/docker/nanang11/webserver
+mysql : https://hub.docker.com/repository/docker/nanang11/mysql
+
